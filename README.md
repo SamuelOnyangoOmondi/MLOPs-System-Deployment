@@ -40,7 +40,7 @@ To perform data analysis and initial model training:
    ```bash
    jupyter notebook
    ```
-3. Open `project_name.ipynb` and execute the cells sequentially.
+3. Open `Samuel_Omondi_MLOPS.ipynb` and execute the cells sequentially.
 
 ### Starting the FastAPI Server
 To run the FastAPI application:
