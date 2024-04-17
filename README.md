@@ -57,17 +57,3 @@ Use the `/predict/` endpoint to submit a POST request with the required features
 
 ## Contributions
 Contributions to this project are welcome! Please fork the repository and submit a pull request with your suggested changes. For any bugs or feedback, feel free to open an issue in the repository.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Contact
-For further inquiries, contact [Your Email or GitHub Profile Link].
-```
-
-### Points to Customize:
-- **Dataset Description**: Update the description if there are more details you would like to include about your dataset.
-- **Contact Information**: Replace placeholder with your actual contact information or GitHub profile link.
-- **License Link**: If you have a `LICENSE.md` file in your repository, make sure the link is correct. If not, you may need to create this file or adjust the reference.
-
-This `README.md` is structured to provide a clear and complete introduction to your project, instructions for installation and use, and ways to contribute, making it suitable for open-source collaboration and use.
